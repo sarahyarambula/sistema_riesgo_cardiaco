@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Configuración local de VS Code
+.vscode/
+# Base de datos local (contiene usuarios y evaluaciones; no se sube)
+*.db
+
+# Secretos de Streamlit
+.streamlit/secrets.toml
